@@ -1,4 +1,4 @@
-package com.neluam.factoriaabstracta
+package com.neluam.factoriaabstracta.filling
 
 interface Filling {
     fun name(): String

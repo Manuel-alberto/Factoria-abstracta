@@ -1,4 +1,4 @@
-package com.neluam.factoriaabstracta
+package com.neluam.factoriaabstracta.bread
 
 interface Bread {
     fun name(): String

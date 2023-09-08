@@ -1,4 +1,4 @@
-package com.neluam.factoriaabstracta
+package com.neluam.factoriaabstracta.bread
 
 class Sliced: Bread {
     override fun name(): String = "SlicedBread"

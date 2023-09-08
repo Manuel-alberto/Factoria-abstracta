@@ -1,4 +1,8 @@
-package com.neluam.factoriaabstracta
+package com.neluam.factoriaabstracta.drink
+
+import com.neluam.factoriaabstracta.factory.AbstractFactory
+import com.neluam.factoriaabstracta.bread.Bread
+import com.neluam.factoriaabstracta.filling.Filling
 
 class DrinkFactory: AbstractFactory() {
     override fun getBread(breadType: String?): Bread? = null

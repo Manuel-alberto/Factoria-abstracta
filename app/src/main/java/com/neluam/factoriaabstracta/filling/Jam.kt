@@ -1,4 +1,4 @@
-package com.neluam.factoriaabstracta
+package com.neluam.factoriaabstracta.filling
 
 class Jam: Filling {
     override fun name(): String = "Jamón"

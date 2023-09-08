@@ -1,4 +1,4 @@
-package com.neluam.factoriaabstracta
+package com.neluam.factoriaabstracta.bread
 
 class Roll: Bread {
     override fun name(): String = "Roll"

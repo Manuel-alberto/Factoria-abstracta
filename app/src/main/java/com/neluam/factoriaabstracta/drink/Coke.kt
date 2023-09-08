@@ -1,4 +1,4 @@
-package com.neluam.factoriaabstracta
+package com.neluam.factoriaabstracta.drink
 
 class Coke: Drink {
     override fun name(): String = "Coca cola"

@@ -3,6 +3,7 @@ package com.neluam.factoriaabstracta
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.neluam.factoriaabstracta.factory.FactoryGenerator
 
 class MainActivity : AppCompatActivity() {
 
